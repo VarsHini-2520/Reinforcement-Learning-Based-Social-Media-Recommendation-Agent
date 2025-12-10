@@ -31,10 +31,12 @@ This project implements a **social media recommendation system** inspired by Ins
 
 - Python 3.8+
 - Libraries:
-pip install numpy torch matplotlib pandas
+pip install numpy pandas matplotlib seaborn torch torchvision gym tqdm scikit-learn
+
 
 ## Clone the repository:
 ```bash
 git clone https://github.com/VarsHini-2520/Reinforcement-Learning-Based-Social-Media-Recommendation-Agent.git
 cd RL-Social-Media-Recommendation-Agent
+
 
